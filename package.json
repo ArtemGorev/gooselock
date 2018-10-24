@@ -1,6 +1,6 @@
 {
   "name": "gooselock",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Lock Mechanism for Mongoose",
   "main": "index.js",
   "scripts": {
