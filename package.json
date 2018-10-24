@@ -1,0 +1,16 @@
+{
+  "name": "gooselock",
+  "version": "0.0.1",
+  "description": "Lock Mechanism for Mongoose",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "keywords": [
+    "mongoose",
+    "lock",
+    "promise"
+  ],
+  "author": "Artem Gorev <artgorev@gmail.com>",
+  "license": "MIT"
+}
